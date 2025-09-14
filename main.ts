@@ -1,4 +1,4 @@
-//% weight=111 color=#0080ff icon="\uf1b2"
+//% weight=000 color=#0080ff icon="\uf1b2"
 namespace PC98 {
 
 //% block="ブート音を再生"
