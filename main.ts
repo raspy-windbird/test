@@ -1,5 +1,5 @@
 //% weight=100 color=#0080ff icon="\uf1b2"
-namespace MyGrove {
+namespace PC98 {
 
 //% block="ブート音を再生"
 export function Boot() {
@@ -20,6 +20,5 @@ export function Boot() {
         SoundExpressionEffect.None,InterpolationCurve.Linear
     ), music.PlaybackMode.UntilDone)
 }
-
 
 }
